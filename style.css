@@ -9,7 +9,7 @@ header {
 
 .caixa {
 	position: relative;
-	width: 940px;
+	width: 900px;
 	margin: 0 auto;
 }
 
@@ -203,7 +203,7 @@ td, th {
 }
 
 .mapa-conteudo {
-	width: 940px;
+	width: 900px;
 	margin: 0 auto;
 }
 
@@ -219,7 +219,7 @@ td, th {
 }
 
 .conteudo-beneficios {
-	width: 640px;
+	width: 500px;
 	margin: 0 auto;
 }
 
@@ -240,10 +240,10 @@ td, th {
 
 
 .imagem-beneficios {
-	width: 60%;
+	width: 50%;
 	opacity: 1;
 	transition: 400ms;
-	box-shadow: 10px 10px 10px 0 #ffffff;
+	box-shadow: 10px 10px 10px 0 #f1abf3;
 }
 
 .imagem-beneficios:hover {
@@ -274,7 +274,7 @@ td, th {
 }
 
 .final {
-    background: rgb(172, 15, 132);
+    background: #B6007A;
 }
 
 	h1 {
