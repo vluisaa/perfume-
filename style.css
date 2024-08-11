@@ -170,7 +170,7 @@ td, th {
 
 .principal {
 	padding: 3em 0;
-	background: #fd72cf;
+	background: #f7a2da;
 	width: 1950px;
 	margin: 0 auto;
 }
@@ -198,7 +198,7 @@ td, th {
 
 .mapa {
 	padding: 3em 0;
-	background: linear-gradient(#fd72cf, #ff28b7);
+	background: linear-gradient(#f7a2da, #f891d6);
 
 }
 
@@ -215,7 +215,7 @@ td, th {
 
 .beneficios {
 	padding: 3em 0;
-	background: #ff28b7;
+	background: #f891d6;
 }
 
 .conteudo-beneficios {
